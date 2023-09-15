@@ -1,0 +1,13 @@
+Write a page report explaining differences between standard deviation and variance. Explain how 2 formulas differ from one another. Save your document and upload it to your GitHub repository to get full points.
+
+Standard Deviation:
+-	A quantity calculated to indicate the extent of deviation for a group as a whole.
+
+Variance:
+-	A statistical measurement of the spread between numbers in a data set.
+
+Some differences between Standard Deviation and Variance are that…
+•	Variance is the average squared deviations from the mean.
+•	While Standard deviation is the square root of the number.
+•	Standard Deviation is expressed in the same units as the original values of the measurement.
+•	While Variance is expressed in much larger units than Standard deviation.
